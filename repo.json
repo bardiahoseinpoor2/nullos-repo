@@ -17,6 +17,10 @@
     "random": {
       "version": "1.0",
       "url": "https://raw.githubusercontent.com/bardiahoseinpoor2/nullos-repo/main/packages/rand.zip"
+    },
+    "python": {
+      "version": "1.0",
+      "url": "https://raw.githubusercontent.com/bardiahoseinpoor2/nullos-repo/main/packages/python.zip"
     }
   }
 }
