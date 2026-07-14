@@ -2,12 +2,6 @@
   "name": "NullOS Repository",
   "version": 1,
   "packages": {
-    "neofetch-null": {
-      "version": "1.0",
-      "description": "System information display tool for NullOS",
-      "author": "null",
-      "file": "packages/neofetch-null-1.0.zip"
-    },
     "random": {
       "version": "1.0",
       "url": "https://raw.githubusercontent.com/bardiahoseinpoor2/nullos-repo/main/packages/rand.zip"
