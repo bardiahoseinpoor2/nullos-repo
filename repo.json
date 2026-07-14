@@ -2,12 +2,6 @@
   "name": "NullOS Repository",
   "version": 1,
   "packages": {
-    "hello": {
-      "version": "1.0",
-      "description": "Hello World program for NullOS",
-      "author": "null",
-      "file": "packages/hello-1.0.zip"
-    },
     "neofetch-null": {
       "version": "1.0",
       "description": "System information display tool for NullOS",
