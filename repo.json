@@ -13,6 +13,10 @@
     "nullfetch": {
       "version": "1.2",
       "url": "https://raw.githubusercontent.com/bardiahoseinpoor2/nullos-repo/main/packages/nullfetch.zip"
+    },
+    "base64": {
+      "version": "1.0",
+      "url": "https://raw.githubusercontent.com/bardiahoseinpoor2/nullos-repo/main/packages/base64..zip"
     }
   }
 }
