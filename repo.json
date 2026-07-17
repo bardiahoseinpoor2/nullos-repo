@@ -20,10 +20,10 @@
     },
     "search": {
       "version": "1.0",
-      "url": "https://raw.githubusercontent.com/bardiahoseinpoor2/nullos-repo/main/packages/search.zip",
-      "filename": "search.zip",
-      "size_bytes": 260,
-      "upload_date": "2026-07-17T01:44:39.139003+00:00"
+      "url": "https://raw.githubusercontent.com/bardiahoseinpoor2/nullos-repo/main/packages/qr.zip",
+      "filename": "qr.zip",
+      "size_bytes": 304,
+      "upload_date": "2026-07-17T19:06:54.502029+00:00"
     },
     "calc": {
       "version": "1.1",
