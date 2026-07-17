@@ -17,6 +17,13 @@
     "base64": {
       "version": "1.0",
       "url": "https://raw.githubusercontent.com/bardiahoseinpoor2/nullos-repo/main/packages/bs64.zip"
+    },
+    "search": {
+      "version": "1.0",
+      "url": "https://raw.githubusercontent.com/bardiahoseinpoor2/nullos-repo/main/packages/search.zip",
+      "filename": "search.zip",
+      "size_bytes": 167,
+      "upload_date": "2026-07-17T01:26:28.383119+00:00"
     }
   }
 }
