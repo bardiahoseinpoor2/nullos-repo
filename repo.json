@@ -40,10 +40,10 @@
       "upload_date": "2026-07-17T19:07:25.058744+00:00"
     },
     "rickroll": {
-    "version": "1.0",
-    "url": "https://raw.githubusercontent.com/bardiahoseinpoor2/nullos-repo/main/packages/rickroll.zip",
-    "filename": "rickroll.zip",
-    "size_bytes": 95,374
+      "version": "1.0",
+      "url": "https://raw.githubusercontent.com/bardiahoseinpoor2/nullos-repo/main/packages/rickroll.zip",
+      "filename": "rickroll.zip",
+      "size_bytes": 95374
     }
   }
 }
