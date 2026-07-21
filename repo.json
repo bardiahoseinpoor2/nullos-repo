@@ -44,6 +44,13 @@
       "url": "https://raw.githubusercontent.com/bardiahoseinpoor2/nullos-repo/main/packages/rickroll.zip",
       "filename": "rickroll.zip",
       "size_bytes": 95374
+    },
+    "passgen": {
+      "version": "1.0",
+      "url": "https://raw.githubusercontent.com/bardiahoseinpoor2/nullos-repo/main/packages/passgen.zip",
+      "filename": "passgen.zip",
+      "size_bytes": 1190,
+      "upload_date": "2026-07-21T23:07:14.987443+00:00"
     }
   }
 }
