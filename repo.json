@@ -44,13 +44,6 @@
       "url": "https://raw.githubusercontent.com/bardiahoseinpoor2/nullos-repo/main/packages/rickroll.zip",
       "filename": "rickroll.zip",
       "size_bytes": 95374
-    },
-    "test": {
-      "version": "1.0",
-      "url": "https://raw.githubusercontent.com/bardiahoseinpoor2/nullos-repo/main/packages/test.zip",
-      "filename": "test.zip",
-      "size_bytes": 130,
-      "upload_date": "2026-07-21T23:02:50.275315+00:00"
     }
   }
 }
