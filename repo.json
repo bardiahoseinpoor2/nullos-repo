@@ -51,6 +51,13 @@
       "filename": "passgen.zip",
       "size_bytes": 1190,
       "upload_date": "2026-07-21T23:07:14.987443+00:00"
+    },
+    "input_test": {
+      "version": "1.0",
+      "url": "https://raw.githubusercontent.com/bardiahoseinpoor2/nullos-repo/main/packages/input_test.zip",
+      "filename": "input_test.zip",
+      "size_bytes": 158,
+      "upload_date": "2026-07-22T00:08:19.943522+00:00"
     }
   }
 }
