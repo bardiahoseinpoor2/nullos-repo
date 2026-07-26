@@ -64,6 +64,13 @@
       "url": "https://raw.githubusercontent.com/bardiahoseinpoor2/nullos-repo/main/packages/lilporn.zip",
       "filename": "lilporn.zip",
       "upload_date": "2026"
+    },
+    "chat": {
+      "version": "1.0",
+      "url": "https://raw.githubusercontent.com/bardiahoseinpoor2/nullos-repo/main/packages/chat-1.0.zip",
+      "filename": "chat-1.0.zip",
+      "size_bytes": 6264,
+      "upload_date": "2026-07-26T08:41:22.443583+00:00"
     }
   }
 }
